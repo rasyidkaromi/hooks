@@ -5,9 +5,8 @@ Install
 ---------------
 go get github.com/rasyidkaromi/hooks
         
-        
-        
-sebuah Implementasi style font-end        
+sebuah Implementasi style font-end  
+
 Usage
 ---------------
 
