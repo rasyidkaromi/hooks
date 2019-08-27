@@ -1,8 +1,15 @@
 # hooks
 Go Hooks dengan UseReducer, UseState, UseEffect dan Dispatch
 
-
-sebuah Implementasi style font-end
+Install
+---------------
+go get github.com/rasyidkaromi/hooks
+        
+        
+        
+sebuah Implementasi style font-end        
+Usage
+---------------
 
           import (
             "github.com/rasyidkaromi/hooks"
