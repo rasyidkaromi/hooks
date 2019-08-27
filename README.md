@@ -49,10 +49,10 @@ Usage
 
 
 ---------------
-dual core intel p6300 
-goos: windows
-goarch: amd64
-BenchmarkDispatch-2 
-20000	     67184 ns/op	      16 B/op	       2 allocs/op
+        dual core intel p6300 
+        goos: windows
+        goarch: amd64
+        BenchmarkDispatch-2 
+        20000	     67184 ns/op	      16 B/op	       2 allocs/op
  
 
