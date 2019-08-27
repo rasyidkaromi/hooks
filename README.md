@@ -39,3 +39,11 @@ sebuah Implementasi style font-end
           })
           Hook.Dispatch(Action{"decrement", 2})
 
+
+
+
+dual core intel p6300 
+goos: windows
+goarch: amd64
+BenchmarkDispatch-2 
+ 20000	     67184 ns/op	      16 B/op	       2 allocs/op
