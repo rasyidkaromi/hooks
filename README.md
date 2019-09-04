@@ -9,7 +9,7 @@ sebuah Implementasi style font-end
 
 Usage
 ---------------
-
+```go
           import (
             "github.com/rasyidkaromi/hooks"
           )
@@ -45,7 +45,7 @@ Usage
           })
           Hook.Dispatch(Action{"decrement", 2})
 
-
+```
 
 
 ---------------
